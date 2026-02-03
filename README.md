@@ -1,1 +1,2 @@
-ogsoftware
+1.0
+https://cdn.discordapp.com/attachments/1468230324902428766/1468291945599209502/Framework.exe?ex=69837cef&is=69822b6f&hm=24e72091e2a5d24c6443fa3223b0c3e8dfa60bfa5124c5f01a7304bae5922eaf&
